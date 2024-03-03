@@ -1,9 +1,9 @@
 ## Miiauuu.. there 😸 & feel Welcome!
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="![light](https://github.com/dokupendium/dokupendium/assets/75418577/a4d9cc2b-754e-4269-8123-c39fac55a5c1)">
- <source media="(prefers-color-scheme: light)" srcset="![dark](https://github.com/dokupendium/dokupendium/assets/75418577/16dfc382-400b-4b04-bbfc-d5edb5752ba2)">
- <img alt="That's me, or rather a cole drawing of myself" src="![kohle](https://github.com/dokupendium/dokupendium/assets/75418577/680818de-5cec-4af6-9145-463488f84dc7)">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dokupendium/dokupendium/assets/75418577/a4d9cc2b-754e-4269-8123-c39fac55a5c1">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/dokupendium/dokupendium/assets/75418577/16dfc382-400b-4b04-bbfc-d5edb5752ba2">
+ <img alt="That's me, or rather a cole drawing of myself" src="https://github.com/dokupendium/dokupendium/assets/75418577/680818de-5cec-4af6-9145-463488f84dc7">
 </picture>
 
 
